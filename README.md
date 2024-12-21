@@ -1,4 +1,6 @@
-#
+# frame-decrypter
+
+Decrypt data from a Frame.sh keystore file into a private key.
 
 ## 1. Installation
 
